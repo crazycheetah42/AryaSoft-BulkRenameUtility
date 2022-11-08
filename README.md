@@ -1,7 +1,7 @@
 # AryaSoft-BulkRenameUtility
 
 This is my Bulk File Rename Utility. It is written in Python and is useful for renaming a bunch of files.
-I made it with the help of Real Python (https://realpython.com/bulk-file-rename-tool-python/?ref=morioh.com&utm_source=morioh.com), which gave me the UI and most of the code.
+I made it with the help of Real Python (<a href="https://realpython.com/bulk-file-rename-tool-python/?ref=morioh.com&utm_source=morioh.com">https://realpython.com/bulk-file-rename-tool-python/?ref=morioh.com&utm_source=morioh.com</a>), which gave me the UI and most of the code.
 
 ![image](https://user-images.githubusercontent.com/76403763/200587636-f2c7a80b-acf4-44db-ae1a-02b86b5762b4.png)
 
