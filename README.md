@@ -11,4 +11,5 @@ I made it with the help of Real Python (https://realpython.com/bulk-file-rename-
 
 (This image doesn't show the progress bar but it does work).
 
+
 You can freely use this software. Just download it from the Releases page for your OS and it will work.
